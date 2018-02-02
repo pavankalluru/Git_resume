@@ -1,16 +1,19 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+New Jersey Institute of Technology, New Jersey – USA
+Analysis of user reviews - Web Analytics (Python, Nltk, re, scikit)					Dec 2016
+•	Developed python script to extract user reviews for restaurants from different websites.
+•	Performed Data parsing, cleaning and text mining for all user reviews collected.
+•	Implemented Sentimental Analysis using Machine Learning Algorithms, NLTK and Scikit-Learn Libraries.
+•	Demonstrated good knowledge of Big data, E-R data modeling and data warehouse design concepts.
+	
+Twitter Project	(Hive, Flume, Hadoop)								May 2016
+•	Used Flume and Hive to analyze Twitter data.
+•	Collected data using Flume in local HDFS.
+•	Preprocessed tweets to remove noises and meaningless symbols.
+•	Calculated retweets and determined most influential user in Twitter industry.
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
-
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+Spellathon (NetBeans, Swing, SQL, Java)								Dec 2015
+•	Worked on the interactive application for word lovers like spell bee.
+•	Developed code using NetBeans and Swing.
+•	Imported real-time word dictionary data to generate words.
+•	Represented raw data in the form of a score. 
