@@ -1,6 +1,6 @@
 # Site settings
-title:  "Pavan  Resume"
-description:  "A resume for Entry -Level position."
+title: "Pavan  Resume"
+description: "A resume for Entry -Level position."
 
 # Build settings
 markdown: kramdown
